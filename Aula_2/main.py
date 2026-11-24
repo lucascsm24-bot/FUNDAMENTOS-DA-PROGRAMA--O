@@ -1,9 +1,9 @@
 # Declaração de Variáveis
 # NOME DO USUARIO
-CPF = "154.182.937.96" # Constante, boa prática.
-nome_do_usuario = "Marcus Vinícius Fernandes Borges" # string
-idade_do_usuario = 30 # number (int)
-altura_do_usuario = 1.68 # number (float)
+CPF = "163.437.997-70" # Constante, boa prática.
+nome_do_usuario = "Gilson Lucas Alves Cavalcante" # string
+idade_do_usuario = 26 # number (int)
+altura_do_usuario = 1.73 # number (float)
 possui_cnh = True # boolean (True ou False)
 
 # Exibição de dados
